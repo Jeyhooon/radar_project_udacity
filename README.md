@@ -63,4 +63,4 @@ The cells at the edges are not compared to the threshold due to the lack of supp
 
 ---
 ### Results:
-![Untitled](README media/Untitled.png)
+![Untitled](./README_media/Untitled.png)
